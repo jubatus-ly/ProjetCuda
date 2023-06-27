@@ -1,0 +1,214 @@
+// CALCUL DU TEMPS SANS PRENDRE EN COMPTE ECRITURE SUR LE GPU NI LE CPU
+BLOCK 4
+
+sobel : 2.06605 ms
+
+sobel_1D : 7.35722 ms
+
+sobel_cpp : 62 ms
+
+sobel_shared : 5.0071 ms
+
+sobel_shared_stream : 0 ms
+
+sobel_stream : 3.12512 ms
+
+BLOCK 8
+
+sobel : 0.869152 ms
+
+sobel_1D : 3.79485 ms
+
+sobel_cpp : 62 ms
+
+sobel_shared : 0.713216 ms
+
+sobel_shared_stream : 0 ms
+
+sobel_stream : 2.34493 ms
+
+BLOCK 16
+
+sobel : 0.708992 ms
+
+sobel_1D : 1.96038 ms
+
+sobel_cpp : 62 ms
+
+sobel_shared : 0.379328 ms
+
+sobel_shared_stream : 1.35619 ms
+
+sobel_stream : 2.21901 ms
+
+BLOCK 32
+
+sobel : 0.76288 ms
+
+sobel_1D : 1.04643 ms
+
+sobel_cpp : 62 ms
+
+sobel_shared : 0.412928 ms
+
+sobel_shared_stream : 1.45738 ms
+
+sobel_stream : 2.31024 ms
+
+BLOCK 64
+
+sobel : 0.00176 ms
+
+sobel_1D : 0.776448 ms
+
+sobel_cpp : 62 ms
+
+sobel_shared : 0.001792 ms (marche pas)
+
+sobel_shared_stream : 0.937152 ms
+
+sobel_stream : 1.76416 ms
+
+///////////////////////////////////////////////////////////////////////////////////////////////
+// VERSION FINALE : in.png
+
+BLOCK 4
+
+sobel : 3.82509 ms
+
+sobel_1D : 8.80429 ms
+
+sobel_cpp : 62 ms
+
+sobel_shared : 6.43299 ms
+
+sobel_shared_stream : 8.75846 ms
+
+sobel_stream : 4.32106 ms
+
+BLOCK 8
+
+sobel : 2.67738 ms
+
+sobel_1D : 5.20163 ms
+
+sobel_cpp : 62 ms
+
+sobel_shared : 2.14349 ms
+
+sobel_shared_stream : 2.76672 ms
+
+sobel_stream : 2.76499 ms
+
+BLOCK 16
+
+sobel : 2.14253 ms
+
+sobel_1D : 3.71562 ms
+
+sobel_cpp : 62 ms
+
+sobel_shared : 2.12534 ms
+
+sobel_shared_stream : 2.3001 ms
+
+sobel_stream : 2.53722 ms
+
+BLOCK 32
+
+sobel : 2.18899 ms
+
+sobel_1D : 2.80467 ms
+
+sobel_cpp : 62 ms
+
+sobel_shared : 2.15952 ms
+
+sobel_shared_stream : 2.324 ms
+
+sobel_stream : 2.61014 ms
+
+BLOCK 64
+
+sobel : 1.74125 ms
+
+sobel_1D : 2.53792 ms
+
+sobel_cpp : 62 ms
+
+sobel_shared : 1.77587 ms
+
+sobel_shared_stream : 1.77619 ms
+
+sobel_stream : 1.45888 ms
+
+///////////////////////////////////////////////////////////////////////////////////////////////
+// VERSION FINALE : in2.png
+
+BLOCK 4
+sobel : 0.417376 ms
+
+sobel_1D : 0.823616 ms
+
+sobel_cpp : 5 ms
+
+sobel_shared : 0.623936 ms
+
+sobel_shared_stream : 0.861472 ms
+
+sobel_stream : 0.501312 ms
+
+BLOCK 8
+sobel : 0.334112 ms
+
+sobel_1D : 0.545056 ms
+
+sobel_cpp : 5 ms
+
+sobel_shared : 0.311456 ms
+
+sobel_shared_stream : 0.376416 ms
+
+sobel_stream : 0.38896 ms
+
+BLOCK 16
+sobel : 0.3288 ms
+
+sobel_1D : 0.406304 ms
+
+sobel_cpp : 5 ms
+
+sobel_shared : 0.294752 ms
+
+sobel_shared_stream : 0.342944 ms
+
+sobel_stream : 0.374176 ms
+
+BLOCK 32
+sobel : 0.326528 ms
+
+sobel_1D : 0.34336 ms
+
+sobel_cpp : 5 ms
+
+sobel_shared : 0.29664 ms
+
+sobel_shared_stream : 0.349984 ms
+
+sobel_stream : 0.368416 ms
+
+BLOCK 64
+sobel : 0.194176 ms
+
+sobel_1D : 0.32416 ms
+
+sobel_cpp : 5 ms
+
+sobel_shared : 0.189856 ms
+
+sobel_shared_stream : 0.225536 ms
+
+sobel_stream : 0.227744 ms
+
+///////////////////////////////////////////////////////////////////////////////////////////////
+

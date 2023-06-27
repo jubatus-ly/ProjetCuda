@@ -1,0 +1,155 @@
+/bin/bash: q: : commande introuvable
+horizontal_line_cpp : 8 ms
+
+horizontal_line_cpp : 5 ms
+
+horizontal_line_cpp : 5 ms
+
+horizontal_line_cpp : 5 ms
+
+horizontal_line_cpp : 5 ms
+
+horizontal_line_cpp : 5 ms
+
+horizontal_line_cpp : 5 ms
+
+horizontal_d1 : 0.412448 ms
+
+horizontal : 0.001632 ms
+
+horizontal : 0.101664 ms
+
+horizontal : 0.11472 ms
+
+horizontal : 0.143616 ms
+
+horizontal : 0.2088 ms
+
+horizontal_d1 : 0.42176 ms
+
+horizontal_d1 : 0.348736 ms
+
+horizontal_d1 : 0.347168 ms
+
+horizontal_d1 : 0.80528 ms
+
+horizontal_d1 : 0.001632 ms
+
+horizontal_shared : 0.399648 ms
+
+horizontal_shared : 0.120384 ms
+
+horizontal_shared : 0.097504 ms
+
+horizontal_shared : 0.10016 ms
+
+horizontal_shared : 0.00176 ms
+
+horizontal_streams : 0.41456 ms
+
+horizontal_streams : 0.32304 ms
+
+horizontal_streams : 0.288192 ms
+
+horizontal_streams : 0.2728 ms
+
+horizontal_streams : 0.161952 ms
+
+horizontal_shared_streams : 0.77648 ms
+
+horizontal_shared_streams : 0.308448 ms
+
+horizontal_shared_streams : 0.279488 ms
+
+horizontal_shared_streams : 0.289792 ms
+
+horizontal_shared_streams : 0.152736 ms
+
+horizontal_d1 : 0.00176 ms
+
+horizontal_d1 : 0.001792 ms
+
+horizontal_d1 : 0.00176 ms
+
+horizontal_d1 : 0.001632 ms
+
+horizontal : 0.352096 ms
+
+horizontal : 0.091392 ms
+
+horizontal_shared : 0.353792 ms
+
+blur : 1.52723 ms
+
+horizontal_shared_streams : 1.5751 ms
+
+horizontal_d1 : 4.64877 ms
+
+horizontal_d1 : 4.65091 ms
+
+horizontal_d1 : 0.41616 ms
+
+horizontal : 0.354208 ms
+
+blur : 1.55277 ms
+
+horizontal_shared : 0.356672 ms
+
+horizontal_shared_streams : 1.59338 ms
+
+horizontal_line_cpp : 60 ms
+
+horizontal : 0.722816 ms
+
+horizontal : 0.124256 ms
+
+horizontal : 1.34646 ms
+
+horizontal : 0.175104 ms
+
+horizontal : 2.58819 ms
+
+horizontal : 0.275936 ms
+
+horizontal : 5.07034 ms
+
+horizontal : 0.46976 ms
+
+horizontal : 0.276992 ms
+
+blur : 0.410976 ms
+
+blur : 3.4367 ms
+
+horizontal_shared_streams : 8.3239 ms
+
+horizontal_shared_streams : 0.776128 ms
+
+horizontal_shared : 0.354944 ms
+
+horizontal_shared : 0.097152 ms
+
+horizontal : 1.85792 ms
+
+horizontal : 0.207904 ms
+
+horizontal : 0.507936 ms
+
+horizontal : 0.11216 ms
+
+horizontal : 0.855456 ms
+
+horizontal : 0.139136 ms
+
+horizontal : 0.35296 ms
+
+horizontal : 0.09904 ms
+
+horizontal_shared_streams : 1.61821 ms
+
+horizontal_shared_streams : 0.272032 ms
+
+horizontal_shared_streams : 1.62445 ms
+
+horizontal_shared_streams : 0.268544 ms
+

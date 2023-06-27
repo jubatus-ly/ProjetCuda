@@ -1,0 +1,67 @@
+RADIUS 1
+blur : 2.2735 ms
+
+blur1D : 4.21744 ms
+
+blur_cpp : 137 ms
+
+blur_shared : 2.39485 ms
+
+blur_shared_stream : 2.4872 ms
+
+blur_stream : 2.36096 ms
+
+RADIUS 2
+blur : 2.98464 ms
+
+blur1D : 4.45642 ms
+
+blur_cpp : 344 ms
+
+blur_shared : 2.72758 ms
+
+blur_shared_stream : 3.56899 ms
+
+blur_stream : 2.7495 ms
+
+RADIUS 3
+blur : 3.84547 ms
+
+blur1D : 8.35843 ms
+
+blur_cpp : 651 ms
+
+blur_shared : 3.34205 ms
+
+blur_shared_stream : 4.72243 ms
+
+blur_stream : 3.92234 ms
+
+RADIUS 4
+blur : 4.45267 ms
+
+blur1D : 8.73242 ms
+
+blur_cpp : 1058 ms
+
+blur_shared : 3.66099 ms
+
+blur_shared_stream : 5.74867 ms
+
+blur_stream : 4.47238 ms
+
+RADIUS 5
+blur : 6.47974 ms
+
+blur1D : 14.1372 ms
+
+blur_cpp : 1592 ms
+
+blur_shared : 4.8217 ms
+
+blur_shared_stream : 8.36605 ms
+
+blur_stream : 6.20109 ms
+
+///////////////////////////////////////////////////////////////////////////////////////////////
+
